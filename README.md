@@ -21,8 +21,10 @@ Y por ultimo, con toda esta información poder emitir una recomendación fundame
 ## Herramientas Utilizadas
 
   * Python
+  * Pandas
+  * Matplotlib
   * Google Colab
-  *+ Git & GitHub
+  * GitHub
 
 ## Cómo Ejecutar el Proyecto
 
